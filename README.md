@@ -3,7 +3,6 @@
 ### Express
 
 ```
-Запуск фронта npm run dev
 Запуск бэка: npx ts-node server.ts
 
 ```
